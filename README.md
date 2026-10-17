@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Final Project
 
 ## Emotion Detector
@@ -31,3 +32,6 @@ It also identifies the dominant emotion expressed in the input text.
 - Identification of five emotions
 - Detection of the dominant emotion
 
+=======
+# Repository for final project
+>>>>>>> 3e04588b7b73640f1afb806d3e6bf3e2a41e8fd2
